@@ -4,4 +4,4 @@ This API was writted for study purposes on databse course in [TechnoPark Mail.Ru
 See [specification](https://github.com/s-stupnikov/technopark-db-api/blob/master/README.md) for details.
 
 
-Remastered October 16th, 2016
+Remastered in October 16th, 2016
