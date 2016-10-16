@@ -1,0 +1,1 @@
+INSERT INTO forum (name, slug, user) VALUES ('{0}', '{1}', '{2}');
